@@ -1,0 +1,20 @@
+PODS:
+  - Keys (1.0.0)
+  - NSData+Base64 (1.0.0)
+  - OAuthCore (0.0.1):
+    - NSData+Base64
+
+DEPENDENCIES:
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - OAuthCore
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Keys: 7d2ff6ff42f6903358267ce56e9392f83c31acfe
+  NSData+Base64: 4e84902c4db907a15673474677e57763ef3903e4
+  OAuthCore: 43dce261db846a1fe20234d95654257e00e78581
+
+COCOAPODS: 0.38.2
