@@ -37,8 +37,9 @@ ACAccountType *accountType = [store accountTypeWithAccountTypeIdentifier:ACAccou
 
 # Demo
 
-DKTwitterReverseAuth includes a demo project.
-
+- DKTwitterReverseAuth includes a demo project.
+- DKTwitterReverseAuth is used in [DKParseAuth](https://github.com/dkhamsing/DKParseAuth)
+ 
 # Thanks
 
 This project uses the work of [Loren Brichter](https://github.com/atebits/OAuthCore) and [Sean Cook](https://github.com/seancook/TWReverseAuthExample).
